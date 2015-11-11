@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "953819AB006C521D6F470F8A6235011A1A24F434",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0132FE6712E5DE647D99BCC6169BBBB9E0625507" : 0,
+    "953819AB006C521D6F470F8A6235011A1A24F434" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B06F4B94-21EB-43D6-90B4-4E114581A9B5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0132FE6712E5DE647D99BCC6169BBBB9E0625507" : "",
+    "953819AB006C521D6F470F8A6235011A1A24F434" : "WmsMapKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WmsMapKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WmsMapKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/revilosun\/WmsMapKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0132FE6712E5DE647D99BCC6169BBBB9E0625507"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com\/revilosun",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "953819AB006C521D6F470F8A6235011A1A24F434"
+    }
+  ]
+}
